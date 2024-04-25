@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 Heres the link :-
 
-https://boca-hv0j7v91s-bismay-bibhu-prakashs-projects.vercel.app
+https://boca-bismay-bibhu-prakashs-projects.vercel.app
